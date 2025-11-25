@@ -2,7 +2,8 @@
 Ce dépôt présente une sélection courte de projets représentatifs de mon positionnement actuel
 
 ---
-Profil hybride **Data Analyst / Analytics Engineer**, issu de 10+ ans d’analyse clients, données territoriales et performance réseau, en reconversion vers la stack moderne (Python, SQL, BigQuery, Snowflake, Airflow, dbt – formation).
+Profil hybride **Data Analyst / Analytics Engineer**, issu de 10+ ans d’analyse clients, données territoriales et performance réseau.
+Montée en compétences vers la stack moderne (Python, SQL, BigQuery, Snowflake, Airflow, dbt – formation).
 ---
 
 - **DST Airlines** — Pipeline analytique complet (APIs, modélisation, automatisation, dashboard)
